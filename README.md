@@ -1,10 +1,7 @@
 # Libdemfall
-Three ways to measure liberal democracy in the world
 
-This document is a copy of the RMarkdown file used to generate this article:
-https://www.jordimas.cat/post/2022-03-10-vdemfall/
 
-Notice that the document uses three datasets:
+This document is a copy of the RMarkdown file used to generate [Three ways to measure liberal democracy in the world](https://www.jordimas.cat/post/2022-03-10-vdemfall/). Notice that the document uses three datasets:
 - V-Dem v12
 - Penn World Tables v10
 - Countrycode
